@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-06-15T15:58:25Z",
+  "updated_at": "2026-06-16T00:00:28Z",
   "reports": [
+    {
+      "index_no": 907,
+      "company": "일진파워",
+      "ticker": "094820",
+      "title": "AI發 전력 인프라 슈퍼사이클 수혜 발전정비를 넘어 연료전지·SMR까지",
+      "report_date": "2026-06-16",
+      "outlook": "positive",
+      "target_price": 22200,
+      "url": "https://www.researcharum.com/report/small-cap-research-view.php?index_no=907",
+      "price_on_date": 15050.0,
+      "latest_price": 15050.0,
+      "pct_change": 0.0,
+      "peak_price": 15050.0,
+      "peak_date": "2026-06-16",
+      "peak_pct": 0.0,
+      "trough_price": 15050.0,
+      "trough_date": "2026-06-16",
+      "trough_pct": 0.0,
+      "last_updated": "2026-06-16"
+    },
     {
       "index_no": 906,
       "company": "펌텍코리아",
@@ -638,7 +658,7 @@
       "trough_price": 2130.0,
       "trough_date": "2025-07-04",
       "trough_pct": -5.33,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 869,
@@ -658,7 +678,7 @@
       "trough_price": 14740.0,
       "trough_date": "2025-09-08",
       "trough_pct": -14.5,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 868,
@@ -678,7 +698,7 @@
       "trough_price": 61900.0,
       "trough_date": "2025-08-20",
       "trough_pct": -19.19,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 867,
@@ -698,7 +718,7 @@
       "trough_price": 16320.0,
       "trough_date": "2026-06-10",
       "trough_pct": -49.24,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 866,
@@ -718,7 +738,7 @@
       "trough_price": 17800.0,
       "trough_date": "2026-06-09",
       "trough_pct": -40.17,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 865,
@@ -738,7 +758,7 @@
       "trough_price": 49800.0,
       "trough_date": "2025-05-29",
       "trough_pct": -3.68,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 864,
@@ -758,7 +778,7 @@
       "trough_price": 40050.0,
       "trough_date": "2026-06-08",
       "trough_pct": -19.9,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 863,
@@ -778,7 +798,7 @@
       "trough_price": 15290.0,
       "trough_date": "2026-06-11",
       "trough_pct": -44.7,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 862,
@@ -798,7 +818,7 @@
       "trough_price": 15290.0,
       "trough_date": "2026-06-11",
       "trough_pct": -42.52,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 861,
@@ -818,7 +838,7 @@
       "trough_price": 13450.0,
       "trough_date": "2025-12-30",
       "trough_pct": -25.28,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 860,
@@ -838,7 +858,7 @@
       "trough_price": 6020.0,
       "trough_date": "2026-06-10",
       "trough_pct": -12.12,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 856,
@@ -858,7 +878,7 @@
       "trough_price": 15940.0,
       "trough_date": "2025-08-22",
       "trough_pct": -18.51,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 855,
@@ -878,7 +898,7 @@
       "trough_price": 800.0,
       "trough_date": "2026-06-08",
       "trough_pct": -24.67,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 854,
@@ -898,7 +918,7 @@
       "trough_price": 8520.0,
       "trough_date": "2025-04-07",
       "trough_pct": -5.02,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 852,
@@ -918,7 +938,7 @@
       "trough_price": 208500.0,
       "trough_date": "2026-03-04",
       "trough_pct": -40.51,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 851,
@@ -938,7 +958,7 @@
       "trough_price": 3520.0,
       "trough_date": "2026-06-08",
       "trough_pct": -52.37,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 850,
@@ -958,7 +978,7 @@
       "trough_price": 7500.0,
       "trough_date": "2025-11-11",
       "trough_pct": -39.76,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 849,
@@ -978,7 +998,7 @@
       "trough_price": 10850.0,
       "trough_date": "2025-04-09",
       "trough_pct": -16.41,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 847,
@@ -998,7 +1018,7 @@
       "trough_price": 4245.0,
       "trough_date": "2026-06-08",
       "trough_pct": -67.27,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 846,
@@ -1018,7 +1038,7 @@
       "trough_price": 5320.0,
       "trough_date": "2026-06-08",
       "trough_pct": -33.17,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 841,
@@ -1038,7 +1058,7 @@
       "trough_price": 942.0,
       "trough_date": "2026-06-09",
       "trough_pct": -50.37,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 840,
@@ -1058,7 +1078,7 @@
       "trough_price": 6469.0,
       "trough_date": "2025-08-20",
       "trough_pct": -54.03,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 839,
@@ -1078,7 +1098,7 @@
       "trough_price": 48600.0,
       "trough_date": "2024-12-09",
       "trough_pct": -7.43,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     },
     {
       "index_no": 838,
@@ -1098,7 +1118,7 @@
       "trough_price": 4720.0,
       "trough_date": "2026-06-09",
       "trough_pct": -39.18,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-06-16"
     }
   ]
 }
