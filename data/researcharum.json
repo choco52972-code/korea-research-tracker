@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T17:20:32Z",
+  "updated_at": "2026-06-17T23:51:17Z",
   "reports": [
     {
       "index_no": 907,
@@ -1070,14 +1070,14 @@
       "target_price": 38000,
       "url": "https://www.researcharum.com/report/small-cap-research-view.php?index_no=840",
       "price_on_date": 14072.0,
-      "latest_price": 15190.0,
-      "pct_change": 7.94,
-      "peak_price": 24967.0,
+      "latest_price": 12660.0,
+      "pct_change": -10.03,
+      "peak_price": 20808.0,
       "peak_date": "2026-01-14",
-      "peak_pct": 77.42,
-      "trough_price": 6469.0,
+      "peak_pct": 47.87,
+      "trough_price": 5391.0,
       "trough_date": "2025-08-20",
-      "trough_pct": -54.03,
+      "trough_pct": -61.69,
       "last_updated": "2026-06-17"
     },
     {
