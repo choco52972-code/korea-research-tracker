@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-25T16:34:46Z",
+  "updated_at": "2026-06-25T23:30:26Z",
   "reports": [
+    {
+      "wr_id": 336,
+      "company": "에이텀",
+      "title": "N새글MLCC 산업 호황으로 가격 인상 국면 본격 진입, MLCC 유통 자회사 청한전자 실적 개선 및 모멘텀 확보",
+      "author": "이충헌, 홍소현",
+      "report_date": "2026.06.26",
+      "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=336",
+      "ticker": "355690",
+      "price_on_date": null,
+      "latest_price": null,
+      "pct_change": null,
+      "peak_price": null,
+      "peak_date": null,
+      "peak_pct": null,
+      "trough_price": null,
+      "trough_date": null,
+      "trough_pct": null
+    },
     {
       "wr_id": 335,
       "company": "애드포러스",
