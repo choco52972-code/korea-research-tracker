@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-24T14:56:33Z",
+  "updated_at": "2026-08-24T22:39:29Z",
   "reports": [
+    {
+      "wr_id": 371,
+      "company": "소프트캠프",
+      "title": "N새글끊이지 않는 개인정보 유출사고 발생, 소프트캠프로 향하는 보안 수요는 현재 진행형",
+      "author": "전우빈",
+      "report_date": "2026.08.25",
+      "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=371",
+      "ticker": "258790",
+      "price_on_date": null,
+      "latest_price": null,
+      "pct_change": null,
+      "peak_price": null,
+      "peak_date": null,
+      "peak_pct": null,
+      "trough_price": null,
+      "trough_date": null,
+      "trough_pct": null
+    },
     {
       "wr_id": 370,
       "company": "에스에너지",
