@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-25T14:59:37Z",
+  "updated_at": "2026-08-25T22:40:57Z",
   "reports": [
+    {
+      "index_no": 915,
+      "company": "HL D&I",
+      "ticker": "014790",
+      "title": "우량 프로젝트 매출로 수익 개선 중 전력 인프라·데이터센터 수주 모멘텀까지",
+      "report_date": "2026-08-26",
+      "outlook": "positive",
+      "target_price": 4170,
+      "url": "https://www.researcharum.com/report/small-cap-research-view.php?index_no=915",
+      "price_on_date": null,
+      "latest_price": null,
+      "pct_change": null,
+      "peak_price": null,
+      "peak_date": null,
+      "peak_pct": null,
+      "trough_price": null,
+      "trough_date": null,
+      "trough_pct": null
+    },
     {
       "index_no": 912,
       "company": "코세스",
