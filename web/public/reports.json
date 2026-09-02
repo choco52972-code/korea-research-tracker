@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-09-01T14:47:32Z",
+  "updated_at": "2026-09-02T00:03:22Z",
   "reports": [
+    {
+      "wr_id": 376,
+      "company": "씨엔알리서치",
+      "title": "N새글일라이릴리·로슈의 1.4조원 규모 한국 투자 본격화 +  국민성장펀드 바이오 자금 집행은 CRO 기업에게 수…",
+      "author": "전우빈",
+      "report_date": "2026.09.02",
+      "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=376",
+      "ticker": "359090",
+      "price_on_date": 2030.0,
+      "latest_price": 2030.0,
+      "pct_change": 0.0,
+      "peak_price": 2045.0,
+      "peak_date": "2026-09-02",
+      "peak_pct": 0.74,
+      "trough_price": 1984.0,
+      "trough_date": "2026-09-02",
+      "trough_pct": -2.27,
+      "last_updated": "2026-09-02"
+    },
     {
       "wr_id": 375,
       "company": "누리플랜",
@@ -3316,7 +3335,7 @@
       "trough_price": 1770.0,
       "trough_date": "2026-07-14",
       "trough_pct": -59.73,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 191,
@@ -3335,7 +3354,7 @@
       "trough_price": 1080.0,
       "trough_date": "2025-09-02",
       "trough_pct": -39.73,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 190,
@@ -3354,7 +3373,7 @@
       "trough_price": 3503.0,
       "trough_date": "2025-03-06",
       "trough_pct": 308.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 189,
@@ -3373,7 +3392,7 @@
       "trough_price": 2885.0,
       "trough_date": "2025-04-07",
       "trough_pct": -15.77,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 188,
@@ -3392,7 +3411,7 @@
       "trough_price": 2420.0,
       "trough_date": "2025-04-09",
       "trough_pct": -19.73,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 185,
@@ -3411,7 +3430,7 @@
       "trough_price": 1080.0,
       "trough_date": "2025-09-02",
       "trough_pct": -42.22,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 186,
@@ -3430,7 +3449,7 @@
       "trough_price": 308.0,
       "trough_date": "2026-03-23",
       "trough_pct": -93.69,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 187,
@@ -3449,7 +3468,7 @@
       "trough_price": 1300.0,
       "trough_date": "2026-03-04",
       "trough_pct": -37.5,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 181,
@@ -3468,7 +3487,7 @@
       "trough_price": 64100.0,
       "trough_date": "2025-04-09",
       "trough_pct": -19.77,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 182,
@@ -3487,7 +3506,7 @@
       "trough_price": 1300.0,
       "trough_date": "2026-03-04",
       "trough_pct": -46.94,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 180,
@@ -3506,7 +3525,7 @@
       "trough_price": 5810.0,
       "trough_date": "2026-07-14",
       "trough_pct": -42.53,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 179,
@@ -3525,7 +3544,7 @@
       "trough_price": 957.0,
       "trough_date": "2026-06-24",
       "trough_pct": -63.12,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 178,
@@ -3544,7 +3563,7 @@
       "trough_price": 1401.0,
       "trough_date": "2026-08-25",
       "trough_pct": -39.27,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 177,
@@ -3563,7 +3582,7 @@
       "trough_price": 1985.0,
       "trough_date": "2025-04-09",
       "trough_pct": -13.88,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 176,
@@ -3582,7 +3601,7 @@
       "trough_price": 308.0,
       "trough_date": "2026-03-23",
       "trough_pct": -93.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 175,
@@ -3601,7 +3620,7 @@
       "trough_price": 17170.0,
       "trough_date": "2025-04-09",
       "trough_pct": -25.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 174,
@@ -3620,7 +3639,7 @@
       "trough_price": 797.0,
       "trough_date": "2026-07-22",
       "trough_pct": -31.53,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 173,
@@ -3639,7 +3658,7 @@
       "trough_price": 2965.0,
       "trough_date": "2024-12-09",
       "trough_pct": 347.21,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 172,
@@ -3658,7 +3677,7 @@
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -56.06,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 171,
@@ -3677,7 +3696,7 @@
       "trough_price": 1151.0,
       "trough_date": "2026-06-29",
       "trough_pct": -43.85,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 170,
@@ -3696,7 +3715,7 @@
       "trough_price": 1667.0,
       "trough_date": "2026-07-03",
       "trough_pct": 38.34,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 169,
@@ -3715,7 +3734,7 @@
       "trough_price": 1060.0,
       "trough_date": "2025-03-06",
       "trough_pct": -48.42,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 168,
@@ -3734,7 +3753,7 @@
       "trough_price": 2400.0,
       "trough_date": "2025-10-01",
       "trough_pct": -24.17,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 167,
@@ -3753,7 +3772,7 @@
       "trough_price": 1001.0,
       "trough_date": "2026-07-23",
       "trough_pct": -43.7,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 166,
@@ -3772,7 +3791,7 @@
       "trough_price": 1143.0,
       "trough_date": "2026-08-31",
       "trough_pct": -78.76,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 165,
@@ -3791,7 +3810,7 @@
       "trough_price": 2940.0,
       "trough_date": "2025-12-24",
       "trough_pct": -59.18,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 164,
@@ -3810,7 +3829,7 @@
       "trough_price": 797.0,
       "trough_date": "2026-07-22",
       "trough_pct": -44.46,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 163,
@@ -3829,7 +3848,7 @@
       "trough_price": 5920.0,
       "trough_date": "2025-04-09",
       "trough_pct": -48.57,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 162,
@@ -3848,7 +3867,7 @@
       "trough_price": 725.0,
       "trough_date": "2026-06-26",
       "trough_pct": -59.81,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 161,
@@ -3867,7 +3886,7 @@
       "trough_price": 797.0,
       "trough_date": "2026-07-22",
       "trough_pct": -46.72,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 160,
@@ -3878,15 +3897,15 @@
       "report_date": "2024.07.31",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=160",
       "price_on_date": 15770.0,
-      "latest_price": 9580.0,
-      "pct_change": -39.25,
+      "latest_price": 9570.0,
+      "pct_change": -39.32,
       "peak_price": 19050.0,
       "peak_date": "2026-04-27",
       "peak_pct": 20.8,
       "trough_price": 7080.0,
       "trough_date": "2024-12-09",
       "trough_pct": -55.1,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 158,
@@ -3905,7 +3924,7 @@
       "trough_price": 9620.0,
       "trough_date": "2025-04-09",
       "trough_pct": -54.3,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 153,
@@ -3924,7 +3943,7 @@
       "trough_price": 1035.0,
       "trough_date": "2026-07-29",
       "trough_pct": -45.95,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 152,
@@ -3943,7 +3962,7 @@
       "trough_price": 3350.0,
       "trough_date": "2026-06-26",
       "trough_pct": -40.6,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 151,
@@ -3962,7 +3981,7 @@
       "trough_price": 9910.0,
       "trough_date": "2026-07-29",
       "trough_pct": -27.4,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 146,
@@ -3981,7 +4000,7 @@
       "trough_price": 4135.0,
       "trough_date": "2024-12-10",
       "trough_pct": -30.39,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 145,
@@ -4000,7 +4019,7 @@
       "trough_price": 1750.0,
       "trough_date": "2026-07-30",
       "trough_pct": -23.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 144,
@@ -4019,7 +4038,7 @@
       "trough_price": 4015.0,
       "trough_date": "2026-07-30",
       "trough_pct": -67.8,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 143,
@@ -4038,7 +4057,7 @@
       "trough_price": 2835.0,
       "trough_date": "2026-06-26",
       "trough_pct": -52.3,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 142,
@@ -4057,7 +4076,7 @@
       "trough_price": 9190.0,
       "trough_date": "2024-12-09",
       "trough_pct": -49.7,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 141,
@@ -4076,7 +4095,7 @@
       "trough_price": 43500.0,
       "trough_date": "2025-04-09",
       "trough_pct": -21.62,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 140,
@@ -4095,7 +4114,7 @@
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -43.35,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 139,
@@ -4114,7 +4133,7 @@
       "trough_price": 5077.0,
       "trough_date": "2024-12-10",
       "trough_pct": -82.0,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 138,
@@ -4133,7 +4152,7 @@
       "trough_price": 1044.0,
       "trough_date": "2024-12-26",
       "trough_pct": 53.53,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 137,
@@ -4152,7 +4171,7 @@
       "trough_price": 4300.0,
       "trough_date": "2026-07-29",
       "trough_pct": -47.04,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 136,
@@ -4171,7 +4190,7 @@
       "trough_price": 1346.0,
       "trough_date": "2024-12-09",
       "trough_pct": -23.61,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 135,
@@ -4190,7 +4209,7 @@
       "trough_price": 2260.0,
       "trough_date": "2026-07-29",
       "trough_pct": -79.45,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 134,
@@ -4209,7 +4228,7 @@
       "trough_price": 1926.0,
       "trough_date": "2026-06-26",
       "trough_pct": -54.79,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 132,
@@ -4228,7 +4247,7 @@
       "trough_price": 901.0,
       "trough_date": "2026-06-25",
       "trough_pct": -90.0,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 133,
@@ -4247,7 +4266,7 @@
       "trough_price": 1747.0,
       "trough_date": "2026-07-29",
       "trough_pct": -80.39,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 130,
@@ -4266,7 +4285,7 @@
       "trough_price": 6240.0,
       "trough_date": "2026-06-08",
       "trough_pct": -68.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 129,
@@ -4285,7 +4304,7 @@
       "trough_price": 2790.0,
       "trough_date": "2024-02-08",
       "trough_pct": 324.01,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 128,
@@ -4304,7 +4323,7 @@
       "trough_price": 9110.0,
       "trough_date": "2026-07-30",
       "trough_pct": -40.26,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 127,
@@ -4323,7 +4342,7 @@
       "trough_price": 880.0,
       "trough_date": "2026-07-30",
       "trough_pct": -53.97,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 126,
@@ -4342,7 +4361,7 @@
       "trough_price": 10500.0,
       "trough_date": "2026-08-27",
       "trough_pct": -52.49,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 125,
@@ -4361,7 +4380,7 @@
       "trough_price": 4520.0,
       "trough_date": "2026-07-30",
       "trough_pct": -70.71,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 124,
@@ -4380,7 +4399,7 @@
       "trough_price": 5500.0,
       "trough_date": "2026-07-30",
       "trough_pct": -64.79,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 123,
@@ -4399,7 +4418,7 @@
       "trough_price": 1770.0,
       "trough_date": "2026-07-14",
       "trough_pct": -24.68,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 122,
@@ -4418,7 +4437,7 @@
       "trough_price": 4200.0,
       "trough_date": "2024-12-10",
       "trough_pct": -59.02,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 121,
@@ -4437,7 +4456,7 @@
       "trough_price": 996.0,
       "trough_date": "2023-11-16",
       "trough_pct": -23.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 119,
@@ -4448,15 +4467,15 @@
       "report_date": "2023.09.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=119",
       "price_on_date": 3385.0,
-      "latest_price": 7560.0,
-      "pct_change": 123.34,
+      "latest_price": 7310.0,
+      "pct_change": 115.95,
       "peak_price": 23500.0,
       "peak_date": "2026-02-06",
       "peak_pct": 594.24,
       "trough_price": 2815.0,
       "trough_date": "2024-04-19",
       "trough_pct": -16.84,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 118,
@@ -4467,15 +4486,15 @@
       "report_date": "2023.09.13",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=118",
       "price_on_date": 6000.0,
-      "latest_price": 8670.0,
-      "pct_change": 44.5,
+      "latest_price": 8440.0,
+      "pct_change": 40.67,
       "peak_price": 29600.0,
       "peak_date": "2026-02-09",
       "peak_pct": 393.33,
       "trough_price": 3755.0,
       "trough_date": "2024-11-13",
       "trough_pct": -37.42,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 117,
@@ -4494,7 +4513,7 @@
       "trough_price": 550.0,
       "trough_date": "2026-08-21",
       "trough_pct": -62.17,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 116,
@@ -4505,15 +4524,15 @@
       "report_date": "2023.08.30",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=116",
       "price_on_date": 11400.0,
-      "latest_price": 6920.0,
-      "pct_change": -39.3,
+      "latest_price": 6780.0,
+      "pct_change": -40.53,
       "peak_price": 12830.0,
       "peak_date": "2023-08-30",
       "peak_pct": 12.54,
       "trough_price": 4300.0,
       "trough_date": "2026-07-29",
       "trough_pct": -62.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 115,
@@ -4524,15 +4543,15 @@
       "report_date": "2023.08.23",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=115",
       "price_on_date": 16440.0,
-      "latest_price": 12420.0,
-      "pct_change": -24.45,
+      "latest_price": 12070.0,
+      "pct_change": -26.58,
       "peak_price": 36900.0,
       "peak_date": "2026-03-26",
       "peak_pct": 124.45,
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -40.94,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 114,
@@ -4543,15 +4562,15 @@
       "report_date": "2023.08.09",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=114",
       "price_on_date": 9460.0,
-      "latest_price": 11600.0,
-      "pct_change": 22.62,
+      "latest_price": 11310.0,
+      "pct_change": 19.56,
       "peak_price": 24150.0,
       "peak_date": "2026-05-26",
       "peak_pct": 155.29,
       "trough_price": 6850.0,
       "trough_date": "2024-12-09",
       "trough_pct": -27.59,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 113,
@@ -4562,15 +4581,15 @@
       "report_date": "2023.08.02",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=113",
       "price_on_date": 5490.0,
-      "latest_price": 2990.0,
-      "pct_change": -45.54,
+      "latest_price": 2945.0,
+      "pct_change": -46.36,
       "peak_price": 10550.0,
       "peak_date": "2024-05-14",
       "peak_pct": 92.17,
       "trough_price": 2355.0,
       "trough_date": "2026-07-30",
       "trough_pct": -57.1,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 112,
@@ -4581,15 +4600,15 @@
       "report_date": "2023.07.26",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=112",
       "price_on_date": 5520.0,
-      "latest_price": 8630.0,
-      "pct_change": 56.34,
+      "latest_price": 8500.0,
+      "pct_change": 53.99,
       "peak_price": 9870.0,
       "peak_date": "2026-03-12",
       "peak_pct": 78.8,
       "trough_price": 3990.0,
       "trough_date": "2024-12-04",
       "trough_pct": -27.72,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 111,
@@ -4600,15 +4619,15 @@
       "report_date": "2023.07.12",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=111",
       "price_on_date": 11490.0,
-      "latest_price": 3400.0,
-      "pct_change": -70.41,
+      "latest_price": 3330.0,
+      "pct_change": -71.02,
       "peak_price": 12010.0,
       "peak_date": "2023-07-14",
       "peak_pct": 4.53,
       "trough_price": 3100.0,
       "trough_date": "2026-06-26",
       "trough_pct": -73.02,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 110,
@@ -4619,15 +4638,15 @@
       "report_date": "2023.07.05",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=110",
       "price_on_date": 4030.0,
-      "latest_price": 1785.0,
-      "pct_change": -55.71,
+      "latest_price": 1750.0,
+      "pct_change": -56.58,
       "peak_price": 4745.0,
       "peak_date": "2023-07-11",
       "peak_pct": 17.74,
       "trough_price": 1580.0,
       "trough_date": "2026-07-29",
       "trough_pct": -60.79,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 109,
@@ -4638,15 +4657,15 @@
       "report_date": "2023.06.21",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=109",
       "price_on_date": 9300.0,
-      "latest_price": 4180.0,
-      "pct_change": -55.05,
+      "latest_price": 4070.0,
+      "pct_change": -56.24,
       "peak_price": 10560.0,
       "peak_date": "2023-10-25",
       "peak_pct": 13.55,
       "trough_price": 3095.0,
       "trough_date": "2026-07-30",
       "trough_pct": -66.72,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 108,
@@ -4657,15 +4676,15 @@
       "report_date": "2023.06.14",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=108",
       "price_on_date": 9950.0,
-      "latest_price": 8220.0,
-      "pct_change": -17.39,
+      "latest_price": 8120.0,
+      "pct_change": -18.39,
       "peak_price": 10330.0,
       "peak_date": "2025-12-23",
       "peak_pct": 3.82,
       "trough_price": 6890.0,
       "trough_date": "2026-07-29",
       "trough_pct": -30.75,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 107,
@@ -4676,15 +4695,15 @@
       "report_date": "2023.06.07",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=107",
       "price_on_date": 13020.0,
-      "latest_price": 11290.0,
-      "pct_change": -13.29,
+      "latest_price": 10960.0,
+      "pct_change": -15.82,
       "peak_price": 15024.0,
       "peak_date": "2024-06-19",
       "peak_pct": 15.39,
       "trough_price": 7869.0,
       "trough_date": "2023-06-12",
       "trough_pct": -39.56,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 106,
@@ -4703,7 +4722,7 @@
       "trough_price": 1491.0,
       "trough_date": "2026-06-23",
       "trough_pct": -77.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 104,
@@ -4714,15 +4733,15 @@
       "report_date": "2023.05.24",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=104",
       "price_on_date": 14660.0,
-      "latest_price": 16940.0,
-      "pct_change": 15.55,
+      "latest_price": 16650.0,
+      "pct_change": 13.57,
       "peak_price": 22200.0,
       "peak_date": "2026-05-11",
       "peak_pct": 51.43,
       "trough_price": 6900.0,
       "trough_date": "2024-12-09",
       "trough_pct": -52.93,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 103,
@@ -4733,15 +4752,15 @@
       "report_date": "2023.05.10",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=103",
       "price_on_date": 16630.0,
-      "latest_price": 23750.0,
-      "pct_change": 42.81,
+      "latest_price": 23250.0,
+      "pct_change": 39.81,
       "peak_price": 44600.0,
       "peak_date": "2026-05-06",
       "peak_pct": 168.19,
       "trough_price": 11550.0,
       "trough_date": "2024-12-04",
       "trough_pct": -30.55,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 102,
@@ -4752,15 +4771,15 @@
       "report_date": "2023.05.03",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=102",
       "price_on_date": 15660.0,
-      "latest_price": 13870.0,
-      "pct_change": -11.43,
+      "latest_price": 13660.0,
+      "pct_change": -12.77,
       "peak_price": 28600.0,
       "peak_date": "2026-01-15",
       "peak_pct": 82.63,
       "trough_price": 9750.0,
       "trough_date": "2024-08-05",
       "trough_pct": -37.74,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 101,
@@ -4771,15 +4790,15 @@
       "report_date": "2023.04.26",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=101",
       "price_on_date": 2425.0,
-      "latest_price": 1902.0,
-      "pct_change": -21.57,
+      "latest_price": 1859.0,
+      "pct_change": -23.34,
       "peak_price": 6140.0,
       "peak_date": "2026-05-11",
       "peak_pct": 153.2,
       "trough_price": 1541.0,
       "trough_date": "2024-12-09",
       "trough_pct": -36.45,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 98,
@@ -4790,15 +4809,15 @@
       "report_date": "2023.04.21",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=98",
       "price_on_date": 4615.0,
-      "latest_price": 4450.0,
-      "pct_change": -3.58,
+      "latest_price": 4300.0,
+      "pct_change": -6.83,
       "peak_price": 16410.0,
       "peak_date": "2026-03-23",
       "peak_pct": 255.58,
       "trough_price": 1791.0,
       "trough_date": "2024-12-09",
       "trough_pct": -61.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 99,
@@ -4809,15 +4828,15 @@
       "report_date": "2023.04.21",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=99",
       "price_on_date": 3455.0,
-      "latest_price": 1362.0,
-      "pct_change": -60.58,
+      "latest_price": 1348.0,
+      "pct_change": -60.98,
       "peak_price": 3530.0,
       "peak_date": "2023-05-26",
       "peak_pct": 2.17,
       "trough_price": 1175.0,
       "trough_date": "2026-07-29",
       "trough_pct": -65.99,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 100,
@@ -4836,7 +4855,7 @@
       "trough_price": 6270.0,
       "trough_date": "2026-07-29",
       "trough_pct": -62.21,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 95,
@@ -4847,15 +4866,15 @@
       "report_date": "2023.04.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=95",
       "price_on_date": 7532.0,
-      "latest_price": 35750.0,
-      "pct_change": 374.64,
+      "latest_price": 34250.0,
+      "pct_change": 354.73,
       "peak_price": 56400.0,
       "peak_date": "2026-05-11",
       "peak_pct": 648.81,
       "trough_price": 6875.0,
       "trough_date": "2023-04-25",
       "trough_pct": -8.72,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 96,
@@ -4866,15 +4885,15 @@
       "report_date": "2023.04.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=96",
       "price_on_date": 3846.0,
-      "latest_price": 2180.0,
-      "pct_change": -43.32,
+      "latest_price": 2150.0,
+      "pct_change": -44.1,
       "peak_price": 5060.0,
       "peak_date": "2024-02-21",
       "peak_pct": 31.57,
       "trough_price": 1926.0,
       "trough_date": "2026-06-26",
       "trough_pct": -49.92,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 97,
@@ -4885,15 +4904,15 @@
       "report_date": "2023.04.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=97",
       "price_on_date": 5910.0,
-      "latest_price": 1383.0,
-      "pct_change": -76.6,
+      "latest_price": 1371.0,
+      "pct_change": -76.8,
       "peak_price": 6390.0,
       "peak_date": "2023-04-20",
       "peak_pct": 8.12,
       "trough_price": 957.0,
       "trough_date": "2026-06-24",
       "trough_pct": -83.81,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 92,
@@ -4912,7 +4931,7 @@
       "trough_price": 1900.0,
       "trough_date": "2026-07-29",
       "trough_pct": -91.56,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 93,
@@ -4923,15 +4942,15 @@
       "report_date": "2023.04.19",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=93",
       "price_on_date": 24950.0,
-      "latest_price": 12420.0,
-      "pct_change": -50.22,
+      "latest_price": 12070.0,
+      "pct_change": -51.62,
       "peak_price": 36900.0,
       "peak_date": "2026-03-26",
       "peak_pct": 47.9,
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -61.08,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 94,
@@ -4942,15 +4961,15 @@
       "report_date": "2023.04.19",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=94",
       "price_on_date": 10020.0,
-      "latest_price": 8220.0,
-      "pct_change": -17.96,
+      "latest_price": 8120.0,
+      "pct_change": -18.96,
       "peak_price": 10330.0,
       "peak_date": "2025-12-23",
       "peak_pct": 3.09,
       "trough_price": 6890.0,
       "trough_date": "2026-07-29",
       "trough_pct": -31.24,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 91,
@@ -4961,15 +4980,15 @@
       "report_date": "2023.04.18",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=91",
       "price_on_date": 20250.0,
-      "latest_price": 41200.0,
-      "pct_change": 103.46,
+      "latest_price": 39950.0,
+      "pct_change": 97.28,
       "peak_price": 67608.0,
       "peak_date": "2026-05-27",
       "peak_pct": 233.87,
       "trough_price": 5077.0,
       "trough_date": "2024-12-10",
       "trough_pct": -74.93,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 90,
@@ -4988,7 +5007,7 @@
       "trough_price": 5760.0,
       "trough_date": "2024-04-11",
       "trough_pct": 585.71,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 89,
@@ -4999,15 +5018,15 @@
       "report_date": "2023.03.29",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=89",
       "price_on_date": 43200.0,
-      "latest_price": 23750.0,
-      "pct_change": -45.02,
+      "latest_price": 23550.0,
+      "pct_change": -45.49,
       "peak_price": 46150.0,
       "peak_date": "2023-03-29",
       "peak_pct": 6.83,
       "trough_price": 21500.0,
       "trough_date": "2026-06-29",
       "trough_pct": -50.23,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 88,
@@ -5018,15 +5037,15 @@
       "report_date": "2023.03.22",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=88",
       "price_on_date": 6832.0,
-      "latest_price": 10980.0,
-      "pct_change": 60.71,
+      "latest_price": 10850.0,
+      "pct_change": 58.81,
       "peak_price": 20450.0,
       "peak_date": "2026-02-04",
       "peak_pct": 199.33,
       "trough_price": 5060.0,
       "trough_date": "2024-12-20",
       "trough_pct": -25.94,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 87,
@@ -5037,15 +5056,15 @@
       "report_date": "2023.03.15",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=87",
       "price_on_date": 8250.0,
-      "latest_price": 25100.0,
-      "pct_change": 204.24,
+      "latest_price": 24700.0,
+      "pct_change": 199.39,
       "peak_price": 29300.0,
       "peak_date": "2026-07-01",
       "peak_pct": 255.15,
       "trough_price": 7750.0,
       "trough_date": "2023-03-16",
       "trough_pct": -6.06,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 86,
@@ -5064,7 +5083,7 @@
       "trough_price": 1491.0,
       "trough_date": "2026-06-23",
       "trough_pct": -80.09,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 85,
@@ -5075,15 +5094,15 @@
       "report_date": "2023.02.22",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=85",
       "price_on_date": 7150.0,
-      "latest_price": 3795.0,
-      "pct_change": -46.92,
+      "latest_price": 3760.0,
+      "pct_change": -47.41,
       "peak_price": 7840.0,
       "peak_date": "2023-03-23",
       "peak_pct": 9.65,
       "trough_price": 3310.0,
       "trough_date": "2026-07-29",
       "trough_pct": -53.71,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 84,
@@ -5094,15 +5113,15 @@
       "report_date": "2023.02.15",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=84",
       "price_on_date": 23650.0,
-      "latest_price": 12420.0,
-      "pct_change": -47.48,
+      "latest_price": 12070.0,
+      "pct_change": -48.96,
       "peak_price": 36900.0,
       "peak_date": "2026-03-26",
       "peak_pct": 56.03,
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -58.94,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 83,
@@ -5113,15 +5132,15 @@
       "report_date": "2023.02.08",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=83",
       "price_on_date": 4790.0,
-      "latest_price": 970.0,
-      "pct_change": -79.75,
+      "latest_price": 986.0,
+      "pct_change": -79.42,
       "peak_price": 10400.0,
       "peak_date": "2023-04-14",
       "peak_pct": 117.12,
       "trough_price": 680.0,
       "trough_date": "2026-07-10",
       "trough_pct": -85.8,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 82,
@@ -5132,15 +5151,15 @@
       "report_date": "2023.02.01",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=82",
       "price_on_date": 15580.0,
-      "latest_price": 16940.0,
-      "pct_change": 8.73,
+      "latest_price": 16650.0,
+      "pct_change": 6.87,
       "peak_price": 22200.0,
       "peak_date": "2026-05-11",
       "peak_pct": 42.49,
       "trough_price": 6900.0,
       "trough_date": "2024-12-09",
       "trough_pct": -55.71,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 81,
@@ -5151,15 +5170,15 @@
       "report_date": "2023.01.18",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=81",
       "price_on_date": 19800.0,
-      "latest_price": 41200.0,
-      "pct_change": 108.08,
+      "latest_price": 39950.0,
+      "pct_change": 101.77,
       "peak_price": 67608.0,
       "peak_date": "2026-05-27",
       "peak_pct": 241.45,
       "trough_price": 5077.0,
       "trough_date": "2024-12-10",
       "trough_pct": -74.36,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 80,
@@ -5170,15 +5189,15 @@
       "report_date": "2023.01.13",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=80",
       "price_on_date": 8459.0,
-      "latest_price": 1219.0,
-      "pct_change": -85.59,
+      "latest_price": 1200.0,
+      "pct_change": -85.81,
       "peak_price": 12500.0,
       "peak_date": "2024-04-09",
       "peak_pct": 47.77,
       "trough_price": 661.0,
       "trough_date": "2026-07-30",
       "trough_pct": -92.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 79,
@@ -5189,15 +5208,15 @@
       "report_date": "2023.01.11",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=79",
       "price_on_date": 3910.0,
-      "latest_price": 1785.0,
-      "pct_change": -54.35,
+      "latest_price": 1750.0,
+      "pct_change": -55.24,
       "peak_price": 4745.0,
       "peak_date": "2023-07-11",
       "peak_pct": 21.36,
       "trough_price": 1580.0,
       "trough_date": "2026-07-29",
       "trough_pct": -59.59,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 78,
@@ -5208,15 +5227,15 @@
       "report_date": "2022.12.14",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=78",
       "price_on_date": 8050.0,
-      "latest_price": 25100.0,
-      "pct_change": 211.8,
+      "latest_price": 24700.0,
+      "pct_change": 206.83,
       "peak_price": 29300.0,
       "peak_date": "2026-07-01",
       "peak_pct": 263.98,
       "trough_price": 6820.0,
       "trough_date": "2023-01-03",
       "trough_pct": -15.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 77,
@@ -5227,15 +5246,15 @@
       "report_date": "2022.12.07",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=77",
       "price_on_date": 12700.0,
-      "latest_price": 23750.0,
-      "pct_change": 87.01,
+      "latest_price": 23250.0,
+      "pct_change": 83.07,
       "peak_price": 44600.0,
       "peak_date": "2026-05-06",
       "peak_pct": 251.18,
       "trough_price": 11550.0,
       "trough_date": "2024-12-04",
       "trough_pct": -9.06,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 76,
@@ -5246,15 +5265,15 @@
       "report_date": "2022.11.30",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=76",
       "price_on_date": 12800.0,
-      "latest_price": 7020.0,
-      "pct_change": -45.16,
+      "latest_price": 6850.0,
+      "pct_change": -46.48,
       "peak_price": 16130.0,
       "peak_date": "2023-01-30",
       "peak_pct": 26.02,
       "trough_price": 4050.0,
       "trough_date": "2024-12-09",
       "trough_pct": -68.36,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 75,
@@ -5265,15 +5284,15 @@
       "report_date": "2022.11.23",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=75",
       "price_on_date": 6010.0,
-      "latest_price": 5420.0,
-      "pct_change": -9.82,
+      "latest_price": 5310.0,
+      "pct_change": -11.65,
       "peak_price": 9550.0,
       "peak_date": "2023-02-10",
       "peak_pct": 58.9,
       "trough_price": 4600.0,
       "trough_date": "2026-06-26",
       "trough_pct": -23.46,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 74,
@@ -5284,15 +5303,15 @@
       "report_date": "2022.11.09",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=74",
       "price_on_date": 9757.0,
-      "latest_price": 35750.0,
-      "pct_change": 266.4,
+      "latest_price": 34250.0,
+      "pct_change": 251.03,
       "peak_price": 56400.0,
       "peak_date": "2026-05-11",
       "peak_pct": 478.05,
       "trough_price": 6875.0,
       "trough_date": "2023-04-25",
       "trough_pct": -29.54,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 73,
@@ -5311,7 +5330,7 @@
       "trough_price": 547.0,
       "trough_date": "2025-04-04",
       "trough_pct": -64.25,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 72,
@@ -5322,15 +5341,15 @@
       "report_date": "2022.10.19",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=72",
       "price_on_date": 7600.0,
-      "latest_price": 9010.0,
-      "pct_change": 18.55,
+      "latest_price": 8640.0,
+      "pct_change": 13.68,
       "peak_price": 43900.0,
       "peak_date": "2023-03-28",
       "peak_pct": 477.63,
       "trough_price": 5730.0,
       "trough_date": "2025-04-09",
       "trough_pct": -24.61,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 71,
@@ -5341,15 +5360,15 @@
       "report_date": "2022.10.12",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=71",
       "price_on_date": 4205.0,
-      "latest_price": 1715.0,
-      "pct_change": -59.22,
+      "latest_price": 1725.0,
+      "pct_change": -58.98,
       "peak_price": 5710.0,
       "peak_date": "2023-04-07",
       "peak_pct": 35.79,
       "trough_price": 1214.0,
       "trough_date": "2024-12-09",
       "trough_pct": -71.13,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 70,
@@ -5360,15 +5379,15 @@
       "report_date": "2022.09.28",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=70",
       "price_on_date": 1785.0,
-      "latest_price": 1902.0,
-      "pct_change": 6.55,
+      "latest_price": 1859.0,
+      "pct_change": 4.15,
       "peak_price": 6140.0,
       "peak_date": "2026-05-11",
       "peak_pct": 243.98,
       "trough_price": 1541.0,
       "trough_date": "2024-12-09",
       "trough_pct": -13.67,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 69,
@@ -5379,15 +5398,15 @@
       "report_date": "2022.09.21",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=69",
       "price_on_date": 17600.0,
-      "latest_price": 6760.0,
-      "pct_change": -61.59,
+      "latest_price": 6660.0,
+      "pct_change": -62.16,
       "peak_price": 23600.0,
       "peak_date": "2023-04-13",
       "peak_pct": 34.09,
       "trough_price": 4240.0,
       "trough_date": "2026-07-30",
       "trough_pct": -75.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 68,
@@ -5398,15 +5417,15 @@
       "report_date": "2022.09.14",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=68",
       "price_on_date": 17389.0,
-      "latest_price": 23700.0,
-      "pct_change": 36.29,
+      "latest_price": 22900.0,
+      "pct_change": 31.69,
       "peak_price": 45000.0,
       "peak_date": "2026-03-17",
       "peak_pct": 158.78,
       "trough_price": 7950.0,
       "trough_date": "2025-04-07",
       "trough_pct": -54.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 67,
@@ -5417,15 +5436,15 @@
       "report_date": "2022.09.06",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=67",
       "price_on_date": 101500.0,
-      "latest_price": 151700.0,
-      "pct_change": 49.46,
+      "latest_price": 154500.0,
+      "pct_change": 52.22,
       "peak_price": 177100.0,
       "peak_date": "2026-03-04",
       "peak_pct": 74.48,
       "trough_price": 50000.0,
       "trough_date": "2025-05-23",
       "trough_pct": -50.74,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 66,
@@ -5436,15 +5455,15 @@
       "report_date": "2022.08.31",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=66",
       "price_on_date": 8610.0,
-      "latest_price": 3795.0,
-      "pct_change": -55.92,
+      "latest_price": 3755.0,
+      "pct_change": -56.39,
       "peak_price": 10750.0,
       "peak_date": "2022-09-16",
       "peak_pct": 24.85,
       "trough_price": 3310.0,
       "trough_date": "2026-07-29",
       "trough_pct": -61.56,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 65,
@@ -5455,15 +5474,15 @@
       "report_date": "2022.08.24",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=65",
       "price_on_date": 11888.0,
-      "latest_price": 13370.0,
-      "pct_change": 12.47,
+      "latest_price": 13220.0,
+      "pct_change": 11.2,
       "peak_price": 26100.0,
       "peak_date": "2026-05-06",
       "peak_pct": 119.55,
       "trough_price": 8172.0,
       "trough_date": "2024-12-09",
       "trough_pct": -31.26,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 64,
@@ -5474,15 +5493,15 @@
       "report_date": "2022.08.17",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=64",
       "price_on_date": 21000.0,
-      "latest_price": 41200.0,
-      "pct_change": 96.19,
+      "latest_price": 39800.0,
+      "pct_change": 89.52,
       "peak_price": 67608.0,
       "peak_date": "2026-05-27",
       "peak_pct": 221.94,
       "trough_price": 5077.0,
       "trough_date": "2024-12-10",
       "trough_pct": -75.82,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 62,
@@ -5501,7 +5520,7 @@
       "trough_price": 6270.0,
       "trough_date": "2026-07-29",
       "trough_pct": -40.57,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 61,
@@ -5512,15 +5531,15 @@
       "report_date": "2022.08.09",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=61",
       "price_on_date": 14600.0,
-      "latest_price": 5550.0,
-      "pct_change": -61.99,
+      "latest_price": 5320.0,
+      "pct_change": -63.56,
       "peak_price": 16550.0,
       "peak_date": "2022-08-25",
       "peak_pct": 13.36,
       "trough_price": 2825.0,
       "trough_date": "2025-02-04",
       "trough_pct": -80.65,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 60,
@@ -5531,15 +5550,15 @@
       "report_date": "2022.08.03",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=60",
       "price_on_date": 24700.0,
-      "latest_price": 12420.0,
-      "pct_change": -49.72,
+      "latest_price": 12120.0,
+      "pct_change": -50.93,
       "peak_price": 36900.0,
       "peak_date": "2026-03-26",
       "peak_pct": 49.39,
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -60.69,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 59,
@@ -5558,7 +5577,7 @@
       "trough_price": 690.0,
       "trough_date": "2024-12-09",
       "trough_pct": -81.01,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 58,
@@ -5569,15 +5588,15 @@
       "report_date": "2022.07.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=58",
       "price_on_date": 5136.0,
-      "latest_price": 2180.0,
-      "pct_change": -57.55,
+      "latest_price": 2155.0,
+      "pct_change": -58.04,
       "peak_price": 6497.0,
       "peak_date": "2022-08-03",
       "peak_pct": 26.5,
       "trough_price": 1926.0,
       "trough_date": "2026-06-26",
       "trough_pct": -62.5,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 57,
@@ -5588,15 +5607,15 @@
       "report_date": "2022.07.13",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=57",
       "price_on_date": 11250.0,
-      "latest_price": 14100.0,
-      "pct_change": 25.33,
+      "latest_price": 14450.0,
+      "pct_change": 28.44,
       "peak_price": 37000.0,
       "peak_date": "2026-05-21",
       "peak_pct": 228.89,
       "trough_price": 5340.0,
       "trough_date": "2024-12-10",
       "trough_pct": -52.53,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 7,
@@ -5607,15 +5626,15 @@
       "report_date": "2022.07.06",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=7",
       "price_on_date": 5600.0,
-      "latest_price": 4450.0,
-      "pct_change": -20.54,
+      "latest_price": 4325.0,
+      "pct_change": -22.77,
       "peak_price": 16410.0,
       "peak_date": "2026-03-23",
       "peak_pct": 193.04,
       "trough_price": 1791.0,
       "trough_date": "2024-12-09",
       "trough_pct": -68.02,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 55,
@@ -5626,15 +5645,15 @@
       "report_date": "2022.06.22",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=55",
       "price_on_date": 10350.0,
-      "latest_price": 8220.0,
-      "pct_change": -20.58,
+      "latest_price": 8130.0,
+      "pct_change": -21.45,
       "peak_price": 11400.0,
       "peak_date": "2022-10-18",
       "peak_pct": 10.14,
       "trough_price": 6890.0,
       "trough_date": "2026-07-29",
       "trough_pct": -33.43,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 54,
@@ -5645,15 +5664,15 @@
       "report_date": "2022.06.15",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=54",
       "price_on_date": 7990.0,
-      "latest_price": 26900.0,
-      "pct_change": 236.67,
+      "latest_price": 26050.0,
+      "pct_change": 226.03,
       "peak_price": 64900.0,
       "peak_date": "2026-05-11",
       "peak_pct": 712.27,
       "trough_price": 6590.0,
       "trough_date": "2022-07-13",
       "trough_pct": -17.52,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 53,
@@ -5664,15 +5683,15 @@
       "report_date": "2022.06.08",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=53",
       "price_on_date": 6970.0,
-      "latest_price": 2220.0,
-      "pct_change": -68.15,
+      "latest_price": 2180.0,
+      "pct_change": -68.72,
       "peak_price": 8350.0,
       "peak_date": "2023-07-03",
       "peak_pct": 19.8,
       "trough_price": 1958.0,
       "trough_date": "2026-07-21",
       "trough_pct": -71.91,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 52,
@@ -5683,15 +5702,15 @@
       "report_date": "2022.05.18",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=52",
       "price_on_date": 31700.0,
-      "latest_price": 12420.0,
-      "pct_change": -60.82,
+      "latest_price": 12120.0,
+      "pct_change": -61.77,
       "peak_price": 36900.0,
       "peak_date": "2026-03-26",
       "peak_pct": 16.4,
       "trough_price": 9710.0,
       "trough_date": "2026-07-29",
       "trough_pct": -69.37,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 51,
@@ -5702,15 +5721,15 @@
       "report_date": "2022.05.11",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=51",
       "price_on_date": 3240.0,
-      "latest_price": 6260.0,
-      "pct_change": 93.21,
+      "latest_price": 6080.0,
+      "pct_change": 87.65,
       "peak_price": 13980.0,
       "peak_date": "2026-05-11",
       "peak_pct": 331.48,
       "trough_price": 2235.0,
       "trough_date": "2022-10-13",
       "trough_pct": -31.02,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 50,
@@ -5721,15 +5740,15 @@
       "report_date": "2022.05.04",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=50",
       "price_on_date": 11342.0,
-      "latest_price": 6760.0,
-      "pct_change": -40.4,
+      "latest_price": 6660.0,
+      "pct_change": -41.28,
       "peak_price": 25900.0,
       "peak_date": "2022-06-14",
       "peak_pct": 128.35,
       "trough_price": 4240.0,
       "trough_date": "2026-07-30",
       "trough_pct": -62.62,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 48,
@@ -5748,7 +5767,7 @@
       "trough_price": 547.0,
       "trough_date": "2025-04-04",
       "trough_pct": -80.22,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 47,
@@ -5759,15 +5778,15 @@
       "report_date": "2022.04.13",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=47",
       "price_on_date": 4615.0,
-      "latest_price": 1362.0,
-      "pct_change": -70.49,
+      "latest_price": 1348.0,
+      "pct_change": -70.79,
       "peak_price": 4940.0,
       "peak_date": "2022-04-19",
       "peak_pct": 7.04,
       "trough_price": 1175.0,
       "trough_date": "2026-07-29",
       "trough_pct": -74.54,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 49,
@@ -5786,7 +5805,7 @@
       "trough_price": 2250.0,
       "trough_date": "2026-07-30",
       "trough_pct": -73.12,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 46,
@@ -5797,15 +5816,15 @@
       "report_date": "2022.03.30",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=46",
       "price_on_date": 16800.0,
-      "latest_price": 14100.0,
-      "pct_change": -16.07,
+      "latest_price": 14450.0,
+      "pct_change": -13.99,
       "peak_price": 37000.0,
       "peak_date": "2026-05-21",
       "peak_pct": 120.24,
       "trough_price": 5340.0,
       "trough_date": "2024-12-10",
       "trough_pct": -68.21,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 45,
@@ -5816,15 +5835,15 @@
       "report_date": "2022.03.23",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=45",
       "price_on_date": 29950.0,
-      "latest_price": 2475.0,
-      "pct_change": -91.74,
+      "latest_price": 2440.0,
+      "pct_change": -91.85,
       "peak_price": 35000.0,
       "peak_date": "2022-07-13",
       "peak_pct": 16.86,
       "trough_price": 1900.0,
       "trough_date": "2026-07-29",
       "trough_pct": -93.66,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 44,
@@ -5835,15 +5854,15 @@
       "report_date": "2022.03.16",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=44",
       "price_on_date": 6929.0,
-      "latest_price": 1383.0,
-      "pct_change": -80.04,
+      "latest_price": 1371.0,
+      "pct_change": -80.21,
       "peak_price": 8211.0,
       "peak_date": "2022-04-19",
       "peak_pct": 18.5,
       "trough_price": 957.0,
       "trough_date": "2026-06-24",
       "trough_pct": -86.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 43,
@@ -5862,7 +5881,7 @@
       "trough_price": 2610.0,
       "trough_date": "2022-10-13",
       "trough_pct": -45.28,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 42,
@@ -5873,15 +5892,15 @@
       "report_date": "2022.02.23",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=42",
       "price_on_date": 22300.0,
-      "latest_price": 4875.0,
-      "pct_change": -78.14,
+      "latest_price": 4790.0,
+      "pct_change": -78.52,
       "peak_price": 42150.0,
       "peak_date": "2023-06-15",
       "peak_pct": 89.01,
       "trough_price": 3680.0,
       "trough_date": "2026-07-30",
       "trough_pct": -83.5,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 41,
@@ -5892,15 +5911,15 @@
       "report_date": "2022.02.16",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=41",
       "price_on_date": 5999.0,
-      "latest_price": 2030.0,
-      "pct_change": -66.16,
+      "latest_price": 1953.0,
+      "pct_change": -67.44,
       "peak_price": 34216.0,
       "peak_date": "2022-05-23",
       "peak_pct": 470.36,
       "trough_price": 1000.0,
       "trough_date": "2026-06-19",
       "trough_pct": -83.33,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 40,
@@ -5919,7 +5938,7 @@
       "trough_price": 680.0,
       "trough_date": "2026-07-10",
       "trough_pct": -95.14,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 39,
@@ -5930,15 +5949,15 @@
       "report_date": "2022.01.26",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=39",
       "price_on_date": 13700.0,
-      "latest_price": 7020.0,
-      "pct_change": -48.76,
+      "latest_price": 6850.0,
+      "pct_change": -50.0,
       "peak_price": 24850.0,
       "peak_date": "2022-04-22",
       "peak_pct": 81.39,
       "trough_price": 4050.0,
       "trough_date": "2024-12-09",
       "trough_pct": -70.44,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 38,
@@ -5949,15 +5968,15 @@
       "report_date": "2022.01.19",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=38",
       "price_on_date": 17800.0,
-      "latest_price": 16390.0,
-      "pct_change": -7.92,
+      "latest_price": 15640.0,
+      "pct_change": -12.13,
       "peak_price": 58900.0,
       "peak_date": "2025-06-09",
       "peak_pct": 230.9,
       "trough_price": 6010.0,
       "trough_date": "2022-10-13",
       "trough_pct": -66.24,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 37,
@@ -5968,15 +5987,15 @@
       "report_date": "2022.01.12",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=37",
       "price_on_date": 17900.0,
-      "latest_price": 34000.0,
-      "pct_change": 89.94,
+      "latest_price": 33200.0,
+      "pct_change": 85.47,
       "peak_price": 48100.0,
       "peak_date": "2026-05-06",
       "peak_pct": 168.72,
       "trough_price": 14950.0,
       "trough_date": "2022-01-28",
       "trough_pct": -16.48,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 36,
@@ -5987,15 +6006,15 @@
       "report_date": "2022.01.05",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=36",
       "price_on_date": 43200.0,
-      "latest_price": 28950.0,
-      "pct_change": -32.99,
+      "latest_price": 28650.0,
+      "pct_change": -33.68,
       "peak_price": 46750.0,
       "peak_date": "2022-03-10",
       "peak_pct": 8.22,
       "trough_price": 18680.0,
       "trough_date": "2024-12-09",
       "trough_pct": -56.76,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 35,
@@ -6006,15 +6025,15 @@
       "report_date": "2021.12.22",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=35",
       "price_on_date": 9270.0,
-      "latest_price": 3490.0,
-      "pct_change": -62.35,
+      "latest_price": 3380.0,
+      "pct_change": -63.54,
       "peak_price": 10950.0,
       "peak_date": "2022-03-28",
       "peak_pct": 18.12,
       "trough_price": 2970.0,
       "trough_date": "2026-06-29",
       "trough_pct": -67.96,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 33,
@@ -6025,15 +6044,15 @@
       "report_date": "2021.12.08",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=33",
       "price_on_date": 12100.0,
-      "latest_price": 11600.0,
-      "pct_change": -4.13,
+      "latest_price": 11220.0,
+      "pct_change": -7.27,
       "peak_price": 24150.0,
       "peak_date": "2026-05-26",
       "peak_pct": 99.59,
       "trough_price": 6430.0,
       "trough_date": "2023-01-03",
       "trough_pct": -46.86,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 32,
@@ -6052,7 +6071,7 @@
       "trough_price": 1998.0,
       "trough_date": "2026-06-24",
       "trough_pct": -93.87,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 31,
@@ -6071,7 +6090,7 @@
       "trough_price": 690.0,
       "trough_date": "2024-12-09",
       "trough_pct": -82.96,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 30,
@@ -6082,15 +6101,15 @@
       "report_date": "2021.11.17",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=30",
       "price_on_date": 12546.0,
-      "latest_price": 3000.0,
-      "pct_change": -76.09,
+      "latest_price": 2955.0,
+      "pct_change": -76.45,
       "peak_price": 12736.0,
       "peak_date": "2021-11-17",
       "peak_pct": 1.51,
       "trough_price": 2360.0,
       "trough_date": "2024-12-09",
       "trough_pct": -81.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 29,
@@ -6101,15 +6120,15 @@
       "report_date": "2021.10.27",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=29",
       "price_on_date": 3260.0,
-      "latest_price": 1012.0,
-      "pct_change": -68.96,
+      "latest_price": 1009.0,
+      "pct_change": -69.05,
       "peak_price": 3730.0,
       "peak_date": "2022-04-01",
       "peak_pct": 14.42,
       "trough_price": 606.0,
       "trough_date": "2023-07-26",
       "trough_pct": -81.41,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 28,
@@ -6120,15 +6139,15 @@
       "report_date": "2021.10.20",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=28",
       "price_on_date": 5500.0,
-      "latest_price": 1827.0,
-      "pct_change": -66.78,
+      "latest_price": 1825.0,
+      "pct_change": -66.82,
       "peak_price": 8340.0,
       "peak_date": "2022-07-27",
       "peak_pct": 51.64,
       "trough_price": 1292.0,
       "trough_date": "2026-07-30",
       "trough_pct": -76.51,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 27,
@@ -6147,7 +6166,7 @@
       "trough_price": 2730.0,
       "trough_date": "2024-12-09",
       "trough_pct": -55.46,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 26,
@@ -6158,15 +6177,15 @@
       "report_date": "2021.10.06",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=26",
       "price_on_date": 3600.0,
-      "latest_price": 1883.0,
-      "pct_change": -47.69,
+      "latest_price": 1902.0,
+      "pct_change": -47.17,
       "peak_price": 20950.0,
       "peak_date": "2021-10-07",
       "peak_pct": 481.94,
       "trough_price": 1213.0,
       "trough_date": "2026-06-26",
       "trough_pct": -66.31,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 25,
@@ -6177,15 +6196,15 @@
       "report_date": "2021.09.29",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=25",
       "price_on_date": 20900.0,
-      "latest_price": 449500.0,
-      "pct_change": 2050.72,
+      "latest_price": 438500.0,
+      "pct_change": 1998.09,
       "peak_price": 979000.0,
       "peak_date": "2026-05-12",
       "peak_pct": 4584.21,
       "trough_price": 17200.0,
       "trough_date": "2021-11-29",
       "trough_pct": -17.7,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 24,
@@ -6204,7 +6223,7 @@
       "trough_price": 1908.0,
       "trough_date": "2026-08-25",
       "trough_pct": -69.95,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 23,
@@ -6215,15 +6234,15 @@
       "report_date": "2021.09.08",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=23",
       "price_on_date": 21200.0,
-      "latest_price": 5290.0,
-      "pct_change": -75.05,
+      "latest_price": 5220.0,
+      "pct_change": -75.38,
       "peak_price": 26900.0,
       "peak_date": "2021-09-14",
       "peak_pct": 26.89,
       "trough_price": 4630.0,
       "trough_date": "2026-06-26",
       "trough_pct": -78.16,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 22,
@@ -6234,15 +6253,15 @@
       "report_date": "2021.09.01",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=22",
       "price_on_date": 6757.0,
-      "latest_price": 3000.0,
-      "pct_change": -55.6,
+      "latest_price": 2955.0,
+      "pct_change": -56.27,
       "peak_price": 13115.0,
       "peak_date": "2021-11-16",
       "peak_pct": 94.1,
       "trough_price": 2360.0,
       "trough_date": "2024-12-09",
       "trough_pct": -65.07,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 21,
@@ -6253,15 +6272,15 @@
       "report_date": "2021.08.25",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=21",
       "price_on_date": 21491.0,
-      "latest_price": 1838.0,
-      "pct_change": -91.45,
+      "latest_price": 1805.0,
+      "pct_change": -91.6,
       "peak_price": 34416.0,
       "peak_date": "2021-11-18",
       "peak_pct": 60.14,
       "trough_price": 901.0,
       "trough_date": "2026-06-29",
       "trough_pct": -95.81,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 20,
@@ -6272,15 +6291,15 @@
       "report_date": "2021.08.18",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=20",
       "price_on_date": 9300.0,
-      "latest_price": 8840.0,
-      "pct_change": -4.95,
+      "latest_price": 8610.0,
+      "pct_change": -7.42,
       "peak_price": 28300.0,
       "peak_date": "2024-06-04",
       "peak_pct": 204.3,
       "trough_price": 3795.0,
       "trough_date": "2022-10-17",
       "trough_pct": -59.19,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 19,
@@ -6291,15 +6310,15 @@
       "report_date": "2021.08.11",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=19",
       "price_on_date": 23900.0,
-      "latest_price": 5560.0,
-      "pct_change": -76.74,
+      "latest_price": 5390.0,
+      "pct_change": -77.45,
       "peak_price": 69500.0,
       "peak_date": "2023-09-07",
       "peak_pct": 190.79,
       "trough_price": 5000.0,
       "trough_date": "2022-10-13",
       "trough_pct": -79.08,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 18,
@@ -6310,15 +6329,15 @@
       "report_date": "2021.08.04",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=18",
       "price_on_date": 21575.0,
-      "latest_price": 41200.0,
-      "pct_change": 90.96,
+      "latest_price": 39800.0,
+      "pct_change": 84.47,
       "peak_price": 67608.0,
       "peak_date": "2026-05-27",
       "peak_pct": 213.36,
       "trough_price": 5077.0,
       "trough_date": "2024-12-10",
       "trough_pct": -76.47,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 17,
@@ -6337,7 +6356,7 @@
       "trough_price": 2305.0,
       "trough_date": "2026-06-26",
       "trough_pct": -71.26,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 16,
@@ -6348,15 +6367,15 @@
       "report_date": "2021.07.21",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=16",
       "price_on_date": 11550.0,
-      "latest_price": 8220.0,
-      "pct_change": -28.83,
+      "latest_price": 8130.0,
+      "pct_change": -29.61,
       "peak_price": 13950.0,
       "peak_date": "2021-09-09",
       "peak_pct": 20.78,
       "trough_price": 6890.0,
       "trough_date": "2026-07-29",
       "trough_pct": -40.35,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 15,
@@ -6367,15 +6386,15 @@
       "report_date": "2021.07.14",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=15",
       "price_on_date": 19250.0,
-      "latest_price": 12400.0,
-      "pct_change": -35.58,
+      "latest_price": 12330.0,
+      "pct_change": -35.95,
       "peak_price": 29900.0,
       "peak_date": "2024-06-19",
       "peak_pct": 55.32,
       "trough_price": 8000.0,
       "trough_date": "2026-07-29",
       "trough_pct": -58.44,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     },
     {
       "wr_id": 56,
@@ -6386,15 +6405,15 @@
       "report_date": "2021.07.07",
       "url": "https://valuefinder.co.kr/bbs/board.php?bo_table=report&wr_id=56",
       "price_on_date": 6150.0,
-      "latest_price": 1827.0,
-      "pct_change": -70.29,
+      "latest_price": 1794.0,
+      "pct_change": -70.83,
       "peak_price": 8340.0,
       "peak_date": "2022-07-27",
       "peak_pct": 35.61,
       "trough_price": 1292.0,
       "trough_date": "2026-07-30",
       "trough_pct": -78.99,
-      "last_updated": "2026-09-01"
+      "last_updated": "2026-09-02"
     }
   ]
 }
